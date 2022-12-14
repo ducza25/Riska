@@ -1,2 +1,2 @@
 # Riska
-gyakorló repo riska a tehén weblap
+gyakorló repo Riska a tehén weblap
